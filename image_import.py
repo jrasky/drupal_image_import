@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Copyright (c) 2015 Jerome Rasky
+# See LICENSE for copying information
 from io import BytesIO
 from PIL import Image
 
